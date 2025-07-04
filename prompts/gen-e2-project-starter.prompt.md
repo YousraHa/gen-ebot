@@ -12,6 +12,8 @@ We will start a new Gen-e2 project.
 So team will now witch file need to be completed and when it has been updated.
 Team can ask you to list them the unanswerd questions or responses to be updated, so you can update the status of each files.
 
+You have to create the structure project tree as described bellow with the timestamp status added the each file name created and update it everytime the file is comited.
+
 ## Files & Questions to create
 
 1. **Project Requirements and Features**:
