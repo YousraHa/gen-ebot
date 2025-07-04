@@ -2,9 +2,14 @@
 
 We will start a new Gen-e2 project.
 
-Ask the following questions before proceeding:
+1. create the following .MD files with the names in bold bellow
+2. add as status information filed at the end of the naming whith :
+   A. " [?][last comit timestamp] when file still need some reponses
+   B. " [OK][last comit timestamp] when all reponses have been provided
+So team will now witch file need to be completed and when it has been updated.
+Team can ask you to list them the unanswerd questions or responses to be updated.
 
-## Questions to Ask
+## Files & Questions to create
 
 1. **Project Requirements and Features**:
    - What are the project requirements and features?
